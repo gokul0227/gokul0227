@@ -52,7 +52,7 @@ Information Technology Student | Java & DSA Enthusiast
 
 ## 📈 GitHub Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gokul0227&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true" width="100%"/>
+[![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokul0227&bg_color=000000&color=fafafa&line=4ef461&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 👀 Visitor Count
 
